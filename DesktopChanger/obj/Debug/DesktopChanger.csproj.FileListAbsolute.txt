@@ -1,0 +1,6 @@
+C:\Users\aleto\source\repos\DesktopChanger\DesktopChanger\bin\Debug\DesktopChanger.exe.config
+C:\Users\aleto\source\repos\DesktopChanger\DesktopChanger\bin\Debug\DesktopChanger.exe
+C:\Users\aleto\source\repos\DesktopChanger\DesktopChanger\bin\Debug\DesktopChanger.pdb
+C:\Users\aleto\source\repos\DesktopChanger\DesktopChanger\obj\Debug\DesktopChanger.csprojAssemblyReference.cache
+C:\Users\aleto\source\repos\DesktopChanger\DesktopChanger\obj\Debug\DesktopChanger.exe
+C:\Users\aleto\source\repos\DesktopChanger\DesktopChanger\obj\Debug\DesktopChanger.pdb
